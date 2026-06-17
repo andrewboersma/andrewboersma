@@ -2,7 +2,7 @@
 
 ### AI Systems & Backend Engineer · Founder
 
-I design and ship production-grade autonomous agent platforms and high-throughput backend infrastructure in Go and Python — from the architecture down to production operations.
+I design and ship production-grade autonomous agent platforms and high-throughput backend infrastructure in Go and Python, from the architecture down to production operations.
 
 ---
 
@@ -15,12 +15,12 @@ I design and ship production-grade autonomous agent platforms and high-throughpu
 
 ---
 
-### Currently — Co-Founder & AI Systems Engineer @ [Y3 Labs](https://github.com/y3labs)
+### Currently — Co-Founder & AI Systems Engineer @ [Y3 Labs](https://y3labs.com)
 
 Building custom production AI systems and multi-agent infrastructure for business customers. **$400K+ in contracts in year one.** Two flagship systems:
 
 **CarEdge AI Agent Framework** · [live](https://caredge.com/live)
-Custom autonomous agent framework in Python — a tool-calling loop with PostgreSQL-backed context and memory, OpenAI reasoning, and production tools (Twilio SMS/MMS, voicemail transcription, web search, Skyvern form-filling, document analysis) driving multi-week dealership negotiations.
+Custom autonomous agent framework in Python and K8s, a tool-calling loop with PostgreSQL-backed context and memory, OpenAI reasoning, and production tools (Twilio SMS/MMS, voicemail transcription, web search, Skyvern form-filling, document analysis) driving multi-week dealership negotiations.
 
 **AgentMessage** · [agentmessage.io](https://agentmessage.io)
 High-reliability A2P SMS/MMS messaging platform built from scratch in Go + PostgreSQL — transactional-outbox delivery, 10DLC/TCR compliance workflows, and a microcent-precision wallet billing system on an append-only ledger.
@@ -46,4 +46,4 @@ High-reliability A2P SMS/MMS messaging platform built from scratch in Go + Postg
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/andrew-boersma)
+[LinkedIn](https://linkedin.com/in/andrewboersma)
